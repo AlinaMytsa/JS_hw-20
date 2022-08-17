@@ -1,7 +1,6 @@
 'use strict';
 
 const onePotatoWeight = 0.075;
-// const pintsOfBorsch = 48;
 const priceOnePoundOfPotato = 13;
 
 
